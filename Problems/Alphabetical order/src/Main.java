@@ -1,4 +1,3 @@
-import java.util.Arrays;
 import java.util.Scanner;
 
 class Main {
@@ -6,18 +5,14 @@ class Main {
         // put your code here
         Scanner scanner = new Scanner(System.in);
         String[] words = scanner.nextLine().split(" ");
+        boolean isOrdered = true;
 
-        for (int i = 1; i < words.length; i++) {
-            int alphabeticalOrder = words[i].compareToIgnoreCase(words[i - 1]);
-
-            if (alphabeticalOrder < 0) {
-                System.out.println("false");
-                break;
-            } else if (i == words.length - 1) {
-                System.out.println("true");
+        for (int i = 0; i < words.length - 1; i++) {
+            if (words[i].compareTo(words[i + 1]) > 0) {
+                isOrdered = false;
                 break;
             }
         }
-
+        System.out.println(isOrdered);
     }
 }
