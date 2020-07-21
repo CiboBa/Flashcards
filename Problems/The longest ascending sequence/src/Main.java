@@ -18,7 +18,9 @@ class Main {
                 if (counter > maxCounter) {
                     maxCounter = counter;
                 }
-            } else counter = 1;
+            } else {
+                counter = 1;
+                }
         }
         System.out.println(maxCounter);
 
