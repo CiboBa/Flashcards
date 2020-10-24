@@ -6,18 +6,25 @@ hyperskill_project:
 stages:
 - id: 232
   step: 5343
+  is_completed: true
 - id: 233
   step: 5344
+  is_completed: true
 - id: 234
   step: 5345
+  is_completed: true
 - id: 235
   step: 5346
+  is_completed: false
 - id: 236
   step: 5347
+  is_completed: false
 - id: 237
   step: 5348
+  is_completed: false
 - id: 238
   step: 5349
+  is_completed: false
 topics:
   0:
   - title: Introduction to Java
@@ -55,7 +62,7 @@ topics:
     theory_id: 3503
   2:
   - title: IDE
-    theory_id: 3805
+    theory_id: 10996
   - title: Primitive and reference types
     theory_id: 5035
   - title: Array
@@ -109,6 +116,10 @@ topics:
     theory_id: 3624
   - title: Set
     theory_id: 3575
+  - title: 'Hashing: overview'
+    theory_id: 9831
+  - title: Hash table
+    theory_id: 5364
   - title: Map
     theory_id: 3558
   - title: Sizes and ranges
@@ -194,3 +205,5 @@ topics:
     theory_id: 3594
   - title: Command-line arguments
     theory_id: 3566
+  - title: IntelliJ Run Configurations
+    theory_id: 10630
