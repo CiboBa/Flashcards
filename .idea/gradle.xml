@@ -23,10 +23,12 @@
             <option value="$PROJECT_DIR$/Problems/Binary search" />
             <option value="$PROJECT_DIR$/Problems/Book" />
             <option value="$PROJECT_DIR$/Problems/Books" />
+            <option value="$PROJECT_DIR$/Problems/Catching some exceptions" />
             <option value="$PROJECT_DIR$/Problems/Circle" />
             <option value="$PROJECT_DIR$/Problems/Compact strings with AsciiCharSequence" />
             <option value="$PROJECT_DIR$/Problems/Complex numbers" />
             <option value="$PROJECT_DIR$/Problems/Complex numbers (1)" />
+            <option value="$PROJECT_DIR$/Problems/Converting and multiplying" />
             <option value="$PROJECT_DIR$/Problems/Creating instances" />
             <option value="$PROJECT_DIR$/Problems/Employees" />
             <option value="$PROJECT_DIR$/Problems/Find mistake" />
@@ -47,6 +49,7 @@
             <option value="$PROJECT_DIR$/Problems/Simulating a clock" />
             <option value="$PROJECT_DIR$/Problems/Sorting arrays" />
             <option value="$PROJECT_DIR$/Problems/Squares of natural numbers" />
+            <option value="$PROJECT_DIR$/Problems/String to double conversion" />
             <option value="$PROJECT_DIR$/Problems/The longest ascending sequence" />
             <option value="$PROJECT_DIR$/Problems/The minimum value of an array" />
             <option value="$PROJECT_DIR$/Problems/The sequence" />
