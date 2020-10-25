@@ -33,6 +33,7 @@
             <option value="$PROJECT_DIR$/Problems/Converting and multiplying" />
             <option value="$PROJECT_DIR$/Problems/Correct the program" />
             <option value="$PROJECT_DIR$/Problems/Correct the usage of non-generic class" />
+            <option value="$PROJECT_DIR$/Problems/Creating a set" />
             <option value="$PROJECT_DIR$/Problems/Creating instances" />
             <option value="$PROJECT_DIR$/Problems/Employees" />
             <option value="$PROJECT_DIR$/Problems/Find mistake" />
@@ -43,6 +44,7 @@
             <option value="$PROJECT_DIR$/Problems/Initializing an array of characters" />
             <option value="$PROJECT_DIR$/Problems/Mutable geometric shapes" />
             <option value="$PROJECT_DIR$/Problems/Only true or false" />
+            <option value="$PROJECT_DIR$/Problems/Output elements" />
             <option value="$PROJECT_DIR$/Problems/Pastry packing optimization" />
             <option value="$PROJECT_DIR$/Problems/Points on the 2D plane" />
             <option value="$PROJECT_DIR$/Problems/Preparing full name" />
@@ -50,12 +52,14 @@
             <option value="$PROJECT_DIR$/Problems/Publication and its subclasses" />
             <option value="$PROJECT_DIR$/Problems/Publications" />
             <option value="$PROJECT_DIR$/Problems/Queens" />
+            <option value="$PROJECT_DIR$/Problems/Removing elements" />
             <option value="$PROJECT_DIR$/Problems/Return empty string when argument is null" />
             <option value="$PROJECT_DIR$/Problems/Safe converting" />
             <option value="$PROJECT_DIR$/Problems/Saying animals" />
             <option value="$PROJECT_DIR$/Problems/Shapes area" />
             <option value="$PROJECT_DIR$/Problems/Simulating a clock" />
             <option value="$PROJECT_DIR$/Problems/Sorting arrays" />
+            <option value="$PROJECT_DIR$/Problems/Spell checker" />
             <option value="$PROJECT_DIR$/Problems/Squares list" />
             <option value="$PROJECT_DIR$/Problems/Squares of natural numbers" />
             <option value="$PROJECT_DIR$/Problems/String to double conversion" />
